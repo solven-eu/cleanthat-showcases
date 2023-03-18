@@ -1,0 +1,9 @@
+[submodule "seata"]
+	path = seata
+	url = git@github.com:seata/seata.git
+[submodule "openai-java"]
+	path = openai-java
+	url = git@github.com:TheoKanning/openai-java.git
+[submodule "spring-boot"]
+	path = spring-boot
+	url = git@github.com:spring-projects/spring-boot.git
