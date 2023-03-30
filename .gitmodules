@@ -13,3 +13,6 @@
 [submodule "jdk"]
 	path = jdk
 	url = git@github.com:adoptium/jdk.git
+[submodule "SHAFT_ENGINE"]
+	path = SHAFT_ENGINE
+	url = git@github.com:ShaftHQ/SHAFT_ENGINE.git

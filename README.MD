@@ -38,4 +38,5 @@ https://github.com/trending/java
 git submodule add git@github.com:seata/seata.git seata
 git submodule add git@github.com:TheoKanning/openai-java.git openai-java
 git submodule add git@github.com:spring-projects/spring-boot.git spring-boot
+[...]
 ```
