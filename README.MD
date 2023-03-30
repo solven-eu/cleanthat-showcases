@@ -16,6 +16,9 @@ Then check the results with:
 
     git diff --submodule=diff
 
+Then reset the sub-modules with:
+
+    git reset --hard --recurse-submodules
 
 ## While developping a new mutator:
 
