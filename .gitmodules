@@ -16,3 +16,12 @@
 [submodule "SHAFT_ENGINE"]
 	path = SHAFT_ENGINE
 	url = git@github.com:ShaftHQ/SHAFT_ENGINE.git
+[submodule "TheAlgorithms_Java"]
+	path = TheAlgorithms_Java
+	url = git@github.com:TheAlgorithms/Java.git
+[submodule "JavaDesignPatterns"]
+	path = JavaDesignPatterns
+	url = git@github.com:iluwatar/java-design-patterns.git
+[submodule "Baeldung_Tutorials"]
+	path = Baeldung_Tutorials
+	url = git@github.com:eugenp/tutorials.git
