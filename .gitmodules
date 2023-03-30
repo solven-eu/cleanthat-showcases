@@ -7,3 +7,6 @@
 [submodule "spring-boot"]
 	path = spring-boot
 	url = git@github.com:spring-projects/spring-boot.git
+[submodule "logging-log4j2"]
+	path = logging-log4j2
+	url = git@github.com:apache/logging-log4j2.git
