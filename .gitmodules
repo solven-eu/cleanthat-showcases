@@ -25,3 +25,6 @@
 [submodule "Baeldung_Tutorials"]
 	path = Baeldung_Tutorials
 	url = git@github.com:eugenp/tutorials.git
+[submodule "jhipster"]
+	path = jhipster
+	url = git@github.com:jhipster/jhipster-bom.git
