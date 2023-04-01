@@ -28,3 +28,6 @@
 [submodule "jhipster"]
 	path = jhipster
 	url = git@github.com:jhipster/jhipster-bom.git
+[submodule "javaparser"]
+	path = javaparser
+	url = git@github.com:javaparser/javaparser.git
