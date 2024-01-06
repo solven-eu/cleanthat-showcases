@@ -28,10 +28,12 @@ Then reset the sub-modules with:
 
 First in cleanthat repository:
 
+    cd cleanthat
     mvn install -pl : :maven -am
     
 Then in this repository:
 
+    cd cleanthat-showcases
     mvn io.github.solven-eu.cleanthat:cleanthat-maven-plugin:2.12-SNAPSHOT:apply -Dcleanthat.mutators=SafeButControversialMutators -Dcleanthat.includeDraft=true
 
 # How has this been built
