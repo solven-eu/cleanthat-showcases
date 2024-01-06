@@ -4,6 +4,10 @@
 
 source : https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules
 
+A local clone can later be updated with:
+
+    git pull --rebase --recurse-submodules
+
 # How to test some Cleanthat mutator
 
 See https://github.com/solven-eu/cleanthat/tree/master/maven#cleanthatapply
