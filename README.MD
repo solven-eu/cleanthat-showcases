@@ -24,7 +24,7 @@ Then reset the sub-modules with:
 
     git reset --hard --recurse-submodules
 
-## While developping a new mutator:
+## While developing a new mutator:
 
 First in cleanthat repository:
 
